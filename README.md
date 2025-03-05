@@ -20,9 +20,7 @@ Below is a description of each visualization included in this repository.
 - Principal Component Analysis (PCA) is a linear dimensionality reduction technique that projects high-dimensional data into a lower-dimensional space 
 while preserving as much variance as possible.
 
-- The PCA visualization shows a more spread-out distribution of points, reflecting its ability to retain global structure
-
-t-Distributed Stochastic Neighbor Embedding (t-SNE) is a non-linear dimensionality reduction method that focuses on preserving local structures. 
+- The PCA visualization shows a more spread-out distribution of points, reflecting its ability to retain global structuret-Distributed Stochastic Neighbor Embedding (t-SNE) is a non-linear dimensionality reduction method that focuses on preserving local structures. 
 
 - The t-SNE visualization presents clusters that are more compact and highlight relationships between similar data points.
 
